@@ -1,6 +1,6 @@
 # Content-Detection-project
 #Content Detection Project
-#App Link
+#web Link
 🔗https://contentshield-1.preview.emergentagent.com/
 #Prototype Link 
 https://vscode-036395ba-d4e6-425a-bf13-fb2358bae235.preview.emergentagent.com/
