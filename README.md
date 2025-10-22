@@ -6,6 +6,8 @@
 https://vscode-036395ba-d4e6-425a-bf13-fb2358bae235.preview.emergentagent.com/
 #For the access the prototype file
 Passkey :d8871dc1
+PPT file  link of our project
+https://1drv.ms/p/c/E61BB42803D961AB/ER7uexLo5NBHsGraCcH6a9oBRzzjVSEq9h2PzBmet_fWSw?e=4Q2ORw
 
 ## 📄 BACKEND FILES
 
